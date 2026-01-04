@@ -1,0 +1,13 @@
+{
+  "name": "prj1-docker-node",
+  "version": "1.0.0",
+  "description": "Simple Node app to learn Docker basics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
